@@ -1,0 +1,10 @@
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe.config
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Form1.resources
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Properties.Resources.resources
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.GenerateResource.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.exe
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.pdb
